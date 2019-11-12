@@ -1,7 +1,7 @@
 ## `kubectl` commands
 
 `kubectl` is a way to get information about the cluster.
-I'm guessing it's interacting with the API provided by the master. A common format is `kubectl [ACTION] [RESOURCE]`.
+I'm guessing it's interacting with the API provided by the master. A common format is `kubectl [ACTION] [RESOURCE]`. There is an [official cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/).
 
 ### kubectl cluster-info
 
